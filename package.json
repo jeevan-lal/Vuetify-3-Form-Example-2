@@ -1,7 +1,7 @@
 {
   "name": "vuetify-3-form-example-2",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
